@@ -1,0 +1,2 @@
+Epoch 98/98
+341/341 [==============================] - 0s 1ms/step - loss: 0.1229 - accuracy: 0.9617 - val_loss: 0.0746 - val_accuracy: 0.9802
